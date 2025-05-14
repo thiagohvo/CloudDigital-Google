@@ -148,14 +148,4 @@ The types of data (structured, semi-structured, and unstructured) directly influ
      - **Anthos**: A platform to modernize applications, enabling hybrid and multi-cloud environments.
      - **Google Cloud APIs**: A variety of APIs for building custom business solutions.
 
----
-
-## Learning Resources
-
-In addition to the course modules, this repository contains:
-
-- **Notes and Insights**: Documentation of key concepts and takeaways from each module.
-- **Practical Exercises**: Code snippets, configuration examples, and hands-on tutorials to implement Google Cloud services.
-- **Case Studies**: Real-world examples of how businesses have implemented Google Cloud solutions for digital transformation.
-- **Google Cloud Documentation**: Links to relevant resources and official documentation for each Google Cloud service covered in the course.
 
