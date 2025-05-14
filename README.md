@@ -159,9 +159,3 @@ In addition to the course modules, this repository contains:
 - **Case Studies**: Real-world examples of how businesses have implemented Google Cloud solutions for digital transformation.
 - **Google Cloud Documentation**: Links to relevant resources and official documentation for each Google Cloud service covered in the course.
 
-## How to Use This Repository
-
-1. **Clone the Repository**  
-   Clone this repository to your local machine to access the course materials and resources.
-   ```bash
-   git clone https://github.com/yourusername/cloud-digital-leader-learning-path.git
