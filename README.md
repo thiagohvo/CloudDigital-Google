@@ -110,8 +110,6 @@ The learning path consists of six primary modules, each dedicated to key areas o
      - **Advantages**: Rich and diverse in nature, offering the potential for more complex insights when processed using AI, machine learning, and analytics tools.
      - **Disadvantages**: Requires significant processing and may require specialized tools like Cloud Vision, Natural Language API, and Cloud ML to extract value.
 
----
-
 ### **Relationship Between Data Types and AI Techniques**
 
 The types of data (structured, semi-structured, and unstructured) directly influence the types of AI techniques that can be applied to them. Here's how these data types align with different AI approaches:
